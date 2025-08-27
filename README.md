@@ -19,7 +19,7 @@
 - packaging==21.3
 
 
-## Run ccommand
+## Run Command
 
 After getting the DIA-MS images, put it in the datas/RGB folder, run the below command to crop unnecessary information from DIA-MS images, and then generate the initial preprocessed data in the datas/format folder
 
